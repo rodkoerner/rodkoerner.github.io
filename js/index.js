@@ -176,7 +176,7 @@
     link = createEl('a');
     icon = createEl('img');
     icon.className = 'icon';
-    icon.src = 'http://example.org/images/icons/link.svg';
+    icon.src = 'https://github.com/rodkoerner/rodkoerner.github.io/images/icons/link.svg';
     link.className = 'link';
     link.appendChild(icon);
     id = node.getAttribute('id');

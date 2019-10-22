@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>MaKE. Food #MAKEROCKS</title>
+    <link>https://github.com/rodkoerner/rodkoerner.github.io/</link>
+    <description>Recent content on MaKE. Food #MAKEROCKS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Oct 2019 22:32:16 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/rodkoerner/rodkoerner.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Myfirstpost</title>
-      <link>http://example.org/posts/myfirstpost/</link>
+      <link>https://github.com/rodkoerner/rodkoerner.github.io/posts/myfirstpost/</link>
       <pubDate>Tue, 22 Oct 2019 22:32:16 +0200</pubDate>
       
-      <guid>http://example.org/posts/myfirstpost/</guid>
+      <guid>https://github.com/rodkoerner/rodkoerner.github.io/posts/myfirstpost/</guid>
       <description> So it begins </description>
     </item>
     
